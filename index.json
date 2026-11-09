@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": "2026-11-carplay-retrofit",
+      "date": "2026-11-09",
+      "updated": null,
+      "status": "in-test",
+      "vehicle": "Mercedes-AMG GT S (C190), 2016",
+      "topic": "Apple CarPlay · NTG5.5 · Retrofit",
+      "cover": null,
+      "langs": {
+        "de": {
+          "slug": "carplay-startet-nicht-nach-retrofit",
+          "title": "CarPlay startet nur manchmal: ein Fall nach dem Retrofit",
+          "description": "AMG GT S mit nachgerüstetem NTG5.5: CarPlay per Kabel kam mal nach Minuten, mal gar nicht. Wie wir die Spur fanden, was wir änderten und wie wir testen.",
+          "file": "artikel/2026-11-carplay-retrofit/de.md",
+          "minutes": 4
+        },
+        "en": {
+          "slug": "carplay-not-starting-after-retrofit",
+          "title": "CarPlay only starts sometimes: a case after a retrofit",
+          "description": "AMG GT S with a retrofitted NTG5.5 head unit: wired CarPlay came after minutes or not at all. How we found the lead, what we changed and how we test it.",
+          "file": "artikel/2026-11-carplay-retrofit/en.md",
+          "minutes": 4
+        }
+      }
+    }
+  ]
+}
